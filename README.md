@@ -1,2 +1,2 @@
 # Sign-Language
-Sign Language is more meaninfull with Deep Learning.
+Sign Language is more meaningfull with Deep Learning.
